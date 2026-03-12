@@ -7,6 +7,7 @@ This project performs exploratory data analysis and visualization on a healthcar
 The project demonstrates a **complete data analytics workflow using Python and Power BI**, including data cleaning, feature engineering, and interactive dashboard development.
 
 ---
+<img width="1414" height="799" alt="image" src="https://github.com/user-attachments/assets/77f99f0b-63e6-4d9f-adbf-6ae3e80afa57" />
 
 ## Live Dashboard
 
