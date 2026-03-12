@@ -188,3 +188,4 @@ B.Tech Computer Science Engineering
 Bennett University
 
 Focused on **Data Analytics, Python, and Business Intelligence tools like Power BI**.
+Portfolio: https://portfolio-upgrade-rho.vercel.app/
